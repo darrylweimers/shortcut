@@ -1,0 +1,26 @@
+Visual Studio Shortcuts
+
+********Create property
+Type:   "prop" + tab
+Result: public int MyProperty { get; set; }
+
+********Console write
+Type:   "CW" + tab
+Result: Console.WriteLine("");
+
+*****Navigate to file
+Type: CTRL + t + "file_name"
+
+***************** TODO list
+// MARK: TODO
+are visible in visual studio under View>Task List
+
+
+//See auto generation
+1. Select item (class name, property, ...)
+2. Press CTRL + .
+3. auto generate optional pop up with show
+
+// Comment code block
+Ctrl + k + c
+
