@@ -3,8 +3,9 @@ Mac shortcuts
 
 Action 				Keystroke
 ————————————————————————————————————————————————
-Move between apps 		cmd+shift+tab 
-Save 				cmd+s 
-Quit 				cmd+q
-Screenshot			cmd+shift+4
-Spotlight search		cmd+spacebar
+Move between apps 		  CMD + SHIFT + TAB 
+Save 				            CMD + s 
+Quit 				            CMD + q
+Screen capture			    CMD + SHIFT + 4
+Spotlight search		    CMD + spacebar
+Force quit app          CMD + OPTION + ESC
