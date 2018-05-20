@@ -1,26 +1,13 @@
 Visual Studio Shortcuts
 
-********Create property
-Type:   "prop" + tab
-Result: public int MyProperty { get; set; }
-
-********Console write
-Type:   "CW" + tab
-Result: Console.WriteLine("");
-
-*****Navigate to file
-Type: CTRL + t + "file_name"
-
-***************** TODO list
-// MARK: TODO
-are visible in visual studio under View>Task List
 
 
-//See auto generation
-1. Select item (class name, property, ...)
-2. Press CTRL + .
-3. auto generate optional pop up with show
-
-// Comment code block
-Ctrl + k + c
-
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+Action 				                     Keystroke                                    Result
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+Create property		                 prop + TAB                                   public int MyProperty { get; set; }
+Console write 				             CW  + TAB                                    Console.WriteLine("");
+Navigate to file 				           CTRL + t + "file_name"                       jump to file with name file_name
+Create todo list 			             // MARK: TODO                                View > Task List
+Auto-generate code                 Select item (class name, property, ...)
+Comment code block                 CTRL + k + c
