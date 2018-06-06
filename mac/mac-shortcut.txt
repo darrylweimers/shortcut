@@ -1,19 +1,27 @@
 Mac shortcuts
 
 ————————————————————————————————————————————————
-<<<<<<< HEAD
 Action 				                     Keystroke
 ————————————————————————————————————————————————
-Move between apps 		             cmd + tab
-Save 				                       cmd + s
-Quit 				                       cmd + q
-Screenshot			                   cmd + shift + 4
-Spotlight search		               cmd + spacebar
-=======
 Move between apps 		  CMD + SHIFT + TAB 
 Save 				            CMD + s 
 Quit 				            CMD + q
 Screen capture			    CMD + SHIFT + 4
 Spotlight search		    CMD + spacebar
 Force quit app          CMD + OPTION + ESC
->>>>>>> f0c3837b378ce82d3d84acca098a070d80357c3f
+
+
+
+Terminal 
+————————————————————————————————————————————————
+Action 				                     Keystroke
+————————————————————————————————————————————————
+Move between tabs       CMD+SHIFT+LEFT/RIGHT key
+
+
+
+Chrome 
+————————————————————————————————————————————————
+Action 				                     Keystroke
+————————————————————————————————————————————————
+Move between tabs       CMD+OPTION+LEFT/RIGHT key
